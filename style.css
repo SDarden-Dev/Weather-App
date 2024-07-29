@@ -10,7 +10,7 @@ a {
 .weather-app {
   background: white;
   max-width: 600px;
-  height: 700px;
+  height: 550px;
   margin: 60px auto;
   padding: 30px;
   border-radius: 10px;
@@ -69,4 +69,24 @@ img {
   position: relative;
   font-weight: 300;
   top: -10px;
+}
+
+.current-details {
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.current-details strong {
+  color: #f65282;
+}
+
+footer {
+  border-top: 1px solid #f9f7fe;
+  text-align: center;
+  padding-top: 15px;
+  color: rgba(39, 33, 66, 0.4);
 }
