@@ -10,7 +10,7 @@ a {
 .weather-app {
   background: white;
   max-width: 600px;
-  height: 550px;
+  height: 580px;
   margin: 60px auto;
   padding: 30px;
   border-radius: 10px;
@@ -53,15 +53,18 @@ header {
 
 img {
   font-size: 140px;
-  padding-left: 200px;
+  padding-left: 115px;
   margin-bottom: -50px;
-  width: 200px;
+  margin-top: -60px;
+  width: 300px;
 }
 
 .current-temperature-value {
   font-size: 50px;
   font-weight: 300;
-  padding-left: 270px;
+  padding-left: 240px;
+  position: relative;
+  top: -30px;
 }
 
 .current-temperature-unit {
@@ -76,8 +79,8 @@ img {
   font-size: 16px;
   font-weight: 400;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .current-details strong {
