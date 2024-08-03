@@ -53,16 +53,16 @@ header {
 
 img {
   font-size: 140px;
-  padding-left: 115px;
+  padding-left: 152px;
   margin-bottom: -50px;
-  margin-top: -60px;
+  margin-top: -55px;
   width: 300px;
 }
 
 .current-temperature-value {
   font-size: 50px;
   font-weight: 300;
-  padding-left: 240px;
+  padding-left: 275px;
   position: relative;
   top: -30px;
 }
@@ -71,7 +71,7 @@ img {
   font-size: 35px;
   position: relative;
   font-weight: 300;
-  top: -10px;
+  top: -40tpx;
 }
 
 .current-details {
